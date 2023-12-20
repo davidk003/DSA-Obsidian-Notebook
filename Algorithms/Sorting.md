@@ -19,6 +19,30 @@ Proof of time complexity:
 
 Bonus: Proof of space complexity?
 ## Insertion sort
+
+
+Proof of correctness (Check):
+Proof of time complexity:
+
+Bonus: Proof of space complexity?
 ## Quick sort
+
+
+Proof of correctness (Check):
+Proof of time complexity:
+
+Bonus: Proof of space complexity?
 ## Merge sort
+
+
+Proof of correctness (Check):
+Proof of time complexity:
+
+Bonus: Proof of space complexity?
 ## Radix sort
+
+
+Proof of correctness (Check):
+Proof of time complexity:
+
+Bonus: Proof of space complexity?
