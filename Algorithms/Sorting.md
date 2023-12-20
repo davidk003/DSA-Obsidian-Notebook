@@ -6,11 +6,16 @@ Python code snippet:
 ```python
 def bubblesort(arr):
 	for i in range(len(arr)) #For each element of array
-		for j in range(len(arr)-1)
-			if arr[j] < arr[j+1]:
+		for j in range(len(arr)-1) #Go through entire array
+			if arr[j] < arr[j+1]: # Find maximal element and swap
 				temp = arr[j]
 				arr[j] = arr[j + 1]
 				arr[j + 1] = temp
+```
+Pseudocode:
+```
+For each element of the list:
+	
 ```
 Time Complexity: $O(n^2)$
 
