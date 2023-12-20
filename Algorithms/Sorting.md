@@ -14,7 +14,8 @@ def bubblesort(arr):
 ```
 Pseudocode:
 ```
-For i to :
+Where n = # of elements in the list
+For i to n-1:
 	Loop through entire list:
 		Find maximal element and move to the 
 ```
