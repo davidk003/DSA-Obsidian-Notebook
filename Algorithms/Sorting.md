@@ -5,8 +5,8 @@ Python code snippet:
 def bubblesort(arr):
 	for i in range(len(arr))
 		for j in range(len(arr)-1)
-		if
-			temp = 
+			if arr[j] < arr[i]:
+				temp = 
 ```
 Time Complexity: $O(n^2)$
 
