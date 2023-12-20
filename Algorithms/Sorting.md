@@ -1,3 +1,5 @@
+Possible links to help with proving algorithm correctness: 
+https://course.ccs.neu.edu/cs5002f18-seattle/lects/cs5002_lect11_fall18_notes.pdf
 ## Bubble sort
 - A naïve approach to sorting any comparable values in a list.
 Python code snippet:
