@@ -15,7 +15,7 @@ def bubblesort(arr):
 Pseudocode:
 ```
 For each element of the list:
-	
+	For 
 ```
 Time Complexity: $O(n^2)$
 
