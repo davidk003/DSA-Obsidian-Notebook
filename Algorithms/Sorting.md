@@ -11,7 +11,6 @@ def bubblesort(arr):
 				arr[j + 1] = temp
 ```
 Time Complexity: $$O(n^2)$$
-T
 
 ## Insertion sort
 ## Quick sort
