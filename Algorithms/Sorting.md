@@ -5,7 +5,7 @@ https://course.ccs.neu.edu/cs5002f18-seattle/lects/cs5002_lect11_fall18_notes.pd
 Python code snippet:
 ```python
 def bubblesort(arr):
-	for i in range(len(arr))
+	for i in range(len(arr)) #For each element of array
 		for j in range(len(arr)-1)
 			if arr[j] < arr[j+1]:
 				temp = arr[j]
