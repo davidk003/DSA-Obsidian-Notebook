@@ -1,7 +1,7 @@
 ## Bubble sort
 - A naïve approach to sorting any comparable values in a list.
 
-Time Complexity: O(n^{2})
+Time Complexity: O($$})
 
 ## Insertion sort
 ## Quick sort
