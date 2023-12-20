@@ -14,7 +14,8 @@ def bubblesort(arr):
 ```
 Time Complexity: $O(n^2)$
 
-Cor
+Proof of correctness (Check):
+
 ## Insertion sort
 ## Quick sort
 ## Merge sort
