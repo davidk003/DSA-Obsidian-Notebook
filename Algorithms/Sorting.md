@@ -10,7 +10,7 @@ def bubblesort(arr):
 				arr[j] = arr[j + 1]
 				arr[j + 1] = temp
 ```
-Time Complexity: $$O(n^2)$$
+Time Complexity: $O(n^2)$
 
 ## Insertion sort
 ## Quick sort
