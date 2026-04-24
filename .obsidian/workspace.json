@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sorting.md",
+                "file": "Hashtables.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f773f5b4b49734fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sorting.md",
+                "file": "Hashtables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sorting.md",
+                "file": "Hashtables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Sorting.md"
+                "file": "Hashtables.md"
               }
             }
           }
@@ -183,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "642b0b11d74bf269",
+  "active": "f773f5b4b49734fd",
   "lastOpenFiles": [
-    "Algorithms/Binary Search.md",
     "Algorithms/Sorting.md",
+    "Algorithms/Binary Search.md",
     "Algorithms/Sorting",
     "Hashtables.md",
     "Algorithms",
