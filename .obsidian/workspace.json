@@ -62,34 +62,9 @@
               "icon": "lucide-file",
               "title": "Hashtables"
             }
-          },
-          {
-            "id": "f773f5b4b49734fd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.5.3"
-            }
-          },
-          {
-            "id": "0959c79c3d245fa8",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 4.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 4"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,17 +209,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04496706f8f1caeb",
+  "active": "642b0b11d74bf269",
   "lastOpenFiles": [
-    "Untitled 3.base",
+    "Untitled.canvas",
+    "Hashtables.md",
     "Untitled 4.base",
     "Untitled 2.base",
+    "Untitled 3.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled.canvas",
     "Algorithms/Binary Search.md",
     "Algorithms/Sorting.md",
-    "Hashtables.md",
     "Time complexity (Big O).md",
     "Linked Lists.md",
     "2026-04-27.md",
