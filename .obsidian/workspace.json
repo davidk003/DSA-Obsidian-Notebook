@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashtables.md",
+                "file": "Time complexity (Big O).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashtables"
+              "title": "Time complexity (Big O)"
             }
           }
         ],
@@ -206,13 +206,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "642b0b11d74bf269",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Linked Lists.md",
+    "Time complexity (Big O).md",
     "Hashtables.md",
+    "Untitled.canvas",
     "Untitled 4.base",
     "Untitled 2.base",
     "Untitled 3.base",
@@ -220,8 +223,6 @@
     "Untitled.base",
     "Algorithms/Binary Search.md",
     "Algorithms/Sorting.md",
-    "Time complexity (Big O).md",
-    "Linked Lists.md",
     "2026-04-27.md",
     "Algorithms/Sorting",
     "Algorithms"
