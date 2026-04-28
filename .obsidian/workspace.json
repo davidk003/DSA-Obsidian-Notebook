@@ -79,12 +79,14 @@
             "id": "0959c79c3d245fa8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Algorithms/Sorting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Sorting"
             }
           }
         ],
@@ -235,12 +237,14 @@
   },
   "active": "0959c79c3d245fa8",
   "lastOpenFiles": [
-    "Algorithms/Sorting.md",
     "Algorithms/Binary Search.md",
-    "Algorithms/Sorting",
     "Hashtables.md",
-    "Algorithms",
+    "Untitled.canvas",
     "Time complexity (Big O).md",
-    "Linked Lists.md"
+    "Linked Lists.md",
+    "2026-04-27.md",
+    "Algorithms/Sorting.md",
+    "Algorithms/Sorting",
+    "Algorithms"
   ]
 }
