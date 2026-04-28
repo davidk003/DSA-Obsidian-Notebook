@@ -79,14 +79,13 @@
             "id": "0959c79c3d245fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Algorithms/Sorting.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 4.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Sorting"
+              "icon": "lucide-table",
+              "title": "Untitled 4"
             }
           }
         ],
@@ -235,15 +234,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0959c79c3d245fa8",
+  "active": "04496706f8f1caeb",
   "lastOpenFiles": [
-    "Algorithms/Binary Search.md",
-    "Hashtables.md",
+    "Untitled 3.base",
+    "Untitled 4.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "Untitled.canvas",
+    "Algorithms/Binary Search.md",
+    "Algorithms/Sorting.md",
+    "Hashtables.md",
     "Time complexity (Big O).md",
     "Linked Lists.md",
     "2026-04-27.md",
-    "Algorithms/Sorting.md",
     "Algorithms/Sorting",
     "Algorithms"
   ]
